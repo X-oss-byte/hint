@@ -1,4 +1,5 @@
-# Compatibility of CSS, HTML and JavaScript features (`compat-api`)
+# Compatibility of CSS, HTML and JavaScript features (`compat-api`) 
+return results 
 
 `compat api` contains hints to check if your CSS, HTML, and JavaScript
 have deprecated or not broadly supported features.
